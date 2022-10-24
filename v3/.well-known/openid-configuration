@@ -1,6 +1,6 @@
 {
     "issuer": "https://raw.githubusercontent.com/amanibhavam/amanibhavam.github.io/master",
-    "jwks_uri": "https://raw.githubusercontent.com/amanibhavam/amanibhavam.github.io/master//keys.json",
+    "jwks_uri": "https://raw.githubusercontent.com/amanibhavam/amanibhavam.github.io/master/keys.json",
     "authorization_endpoint": "urn:kubernetes:programmatic_authorization",
     "response_types_supported": [
         "id_token"
